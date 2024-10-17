@@ -9,15 +9,15 @@
 - add html : (write html code directly into Markdown)
 - add blockquotes : > write
 	and if you line returned, > the another writing will follow the latest one
-- to write code : `write code here` or ```nameOfLanguage
-						write code
-					```
+- to write code : <p>`write code here` or ```nameOfLanguage
+						<br />write code
+					<br />```</p>
 - for tables : 
-<html>| title | other titles for examples |
-| ----- | :--------------------------: |
-| text | other text other text other |
-</html>
+<p>| title | other titles for examples |
+<br />| ----- | :--------------------------: |
+<br />| text | other text other text other |
+</p>
 
 - for horizontal rules : ---
-- to add [links](https://example.com) : <p>[links](https://example.com)</p>
+- to add [links](https://example.com) : <p>"[links](https://example.com)"</p>
 - emoji cheat sheets : https://jimit105.github.io/github-emoji-cheatsheet/
